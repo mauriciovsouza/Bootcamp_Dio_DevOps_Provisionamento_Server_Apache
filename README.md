@@ -46,4 +46,4 @@ sleep 2
 #Copiar os arquivos da aplicação para o Apache
 cp -r ~/tmp/linux-site-dio-main/* /var/www/html
 
-echo "Finalizado!"# Bootcamp_Dio_DevOps_Provisionamento_Server_Apache
+echo "Finalizado!"
